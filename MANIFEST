@@ -10,7 +10,6 @@ lib/Pegex/Chess.pm
 lib/Pegex/Chess.pod
 lib/Pegex/Chess/Data.pm
 lib/Pegex/Chess/Grammar.pm
-share/chess.pgx
 t/board1.chess
 t/chess.t
 t/release-pod-syntax.t
