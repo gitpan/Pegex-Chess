@@ -26,4 +26,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/pegex-chess-pm/issues
   homepage: https://github.com/ingydotnet/pegex-chess-pm
   repository: https://github.com/ingydotnet/pegex-chess-pm.git
-version: 0.0.2
+version: 0.0.3
