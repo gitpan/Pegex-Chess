@@ -11,6 +11,7 @@ lib/Pegex/Chess.pm
 lib/Pegex/Chess.pod
 lib/Pegex/Chess/Data.pm
 lib/Pegex/Chess/Grammar.pm
+t/000-compile-modules.t
 t/board1.chess
 t/chess.t
 t/release-pod-syntax.t
